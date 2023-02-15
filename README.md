@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá, me chamo Andrew Gerez e curso <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-  Sou apaixonado por tecnologia e suas vertentes, atualmente faço estágio de T.I nas áreas de Q.A e Desenvolvimento.
+  Apaixonado por tecnologia e suas vertentes, atualmente sou Desenvolvedor Front-end.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>React, Angular, Node.js.</strong>
+  🦄 Skills: <strong>React, Angular, Node.js, TypeScript.</strong>
 </p>
 
 <p align="left">
